@@ -29,6 +29,7 @@ The run_analysis.r does the following:
 1.  Downloads file https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2.  Unzips the file
 3.  Reads the various files in the unzip folder:
+
   a. X_TRAIN.TXT
   b. Y_TRAIN.TXT
   c. SUBJECT_TRAIN.TXT
@@ -36,6 +37,7 @@ The run_analysis.r does the following:
   e. SUBJECT_TEST.TXT
   f. FEATURES.TXT
   g. ACTIVITY_LABELS.TXT
+  
 4. Set the column names of the datasets
 5. Merge the datasets
 6. Calculate the mean and standard deviation of the datasets
