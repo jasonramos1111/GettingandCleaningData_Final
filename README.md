@@ -21,3 +21,7 @@ You should create one R script called run_analysis.R that does the following.
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+Below is a description of the procedure used to create steps 1-5 above:
+The run_analysis.r does the following:
+1. 
