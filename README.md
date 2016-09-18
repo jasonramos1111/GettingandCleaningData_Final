@@ -35,7 +35,7 @@ The run_analysis.r does the following:
   d. X_TEST.TXT,
   e. SUBJECT_TEST.TXT,
   f. FEATURES.TXT,
-  g. ACTIVITY_LABELS.TXT,
+  g. ACTIVITY_LABELS.TXT
 4. Set the column names of the datasets
 5. Merge the datasets
 6. Calculate the mean and standard deviation of the datasets
